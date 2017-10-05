@@ -2,7 +2,7 @@
   {
       "id": 1,
       "nome": "Desodorante Colônia Kaiak Masculino",
-      "descricao": "Ao movimentar o corpo, o homem manifesta as emoções e acorda os sentidos. A fragrância clássica de Kaiak traz o frescor vibrante das ervas e bergamota. . A busca por viver intensamente traz a essência do que é Kaiak. Os desafios são atrativos para homens que não possuem medo de se aventurar. A adrenalina correndo pelas veias na corrida diária. A sensação de liberdade quando se encontra com a natureza. A vibração que acontece quando você supera seus limites. Na rua, no campo, na montanha, na bike, na água. O movimento começa de dentro para fora. Começa com você. Kaiak vibra pelo frescor dos cítricos e gálbano, pulsa pela energia aquosa do coração desta fragrância e flui através das madeiras transparentes e musc, se inspirando na energia que emana da sua força. Conteúdo: 100ml. Benefícios: Embalagem com cartucho que gera 55% a menos de impacto ambiental.",
+      "descricao": "Ao movimentar ",
       "tipo": "Desodorante",
       "genero": "M",
       "cor": "Azul",
@@ -12,33 +12,5 @@
       "fps": 0,
       "brilho": false,
       "preco": 88.2
-  },
-  {
-      "id": 2,
-      "nome": "Deo Parfum Essencial Masculino - 100m",
-      "descricao": "Essencial Masculino traz uma fragrância amadeirada com notas frescas de cedro, que faz você deixar sua personalidade por onde passar. Você acredita no caminho que escolheu seguir. Sua história não se define ao que poderia ter sido feito, mas sim ao que você fez sem medo de se arriscar. Olhando para seu interior você reconhece seus defeitos e qualidades e é isso que te faz único. Dono de si mesmo, você inspira, transforma e seduz. Por isso Essencial traduz sua personalidade de maneira inconfundível. Com uma fragrância que apresenta um brilho verde e cítrico, mesclado com noz moscada e madeiras insinuantes, Essencial valoriza sua originalidade. Conteúdo: 100 ml.",
-      "tipo": "Perfume",
-      "genero": "M",
-      "cor": "Marrom",
-      "tonalidade": "Transparente",
-      "imagem": "2.jpg",
-      "link": "http://www.natura.com.br/p/deo-parfum-essencial-masculino-100ml-perfumaria-masculina-41806",
-      "fps": 0,
-      "brilho": false,
-      "preco": 119.8
-  },
-  {
-      "id": 3,
-      "nome": "Desodorante Colônia Feminino Luna",
-      "descricao": "Luna valoriza a beleza feminina, encantando os olhares. O toque amadeirado, com notas de patchuli traz uma combinação frutal e cítrica com um corpo floral. Sem fazer esforço a suavidade dos seus passos hipnotiza. Sua naturalidade e sensualidade se mesclam e formam uma personalidade única. O reflexo do olhar de quem te ama traduz quem é você perfeitamente: Plena e dona de si. Sabe que sua beleza exterior encanta, mas que a interior conquista. Luna é uma fragrância luminosa que realça a expressão da beleza autêntica e espontânea de cada mulher com suas notas vibrantes e encantadoras da saída frutal vermelha e cítrica radiante. A feminilidade e sensualidade natural são transmitidas pelo corpo floral fascinante, que funde-se ao fundo amadeirado sensual. Seu frasco remete às curvas femininas e a sutileza dessa essência traduz a mulher brasileira. Conteúdo: 75 ml",
-      "tipo": "Desodorante",
-      "genero": "F",
-      "cor": "Rosa",
-      "tonalidade": "Transparente",
-      "imagem": "3.jpg",
-      "link": "http://www.natura.com.br/p/desodorante-colonia-feminino-luna-75ml-perfumaria-feminina-44452",
-      "fps": 0,
-      "brilho": false,
-      "preco": 99.9
   }
 ]
